@@ -2,13 +2,11 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
-    
+    "test": "echo \"No test\""
   },
   "dependencies": {},
-  "devDependencies": {
-    "nodemon": "1.18.4"
-  },
+  "devDependencies": {},
   "keywords": []
 }
